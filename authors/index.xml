@@ -1,26 +1,56 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Authors | Academic</title>
-    <link>/authors/</link>
-      <atom:link href="/authors/index.xml" rel="self" type="application/rss+xml" />
+    <title>Authors | Renzhi Wu</title>
+    <link>wurenzhi.github.io/authors/</link>
+      <atom:link href="wurenzhi.github.io/authors/index.xml" rel="self" type="application/rss+xml" />
     <description>Authors</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>2019</copyright><lastBuildDate>Sun, 17 Nov 2019 16:52:10 +0800</lastBuildDate>
     <image>
-      <url>/img/icon-192.png</url>
+      <url>wurenzhi.github.io/img/icon-192.png</url>
       <title>Authors</title>
-      <link>/authors/</link>
+      <link>wurenzhi.github.io/authors/</link>
     </image>
     
     <item>
       <title></title>
-      <link>/authors/admin/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>/authors/admin/</guid>
-      <description>&lt;p&gt;Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.&lt;/p&gt;
-
-&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.&lt;/p&gt;
+      <link>wurenzhi.github.io/authors/admin/</link>
+      <pubDate>Sun, 17 Nov 2019 16:52:10 +0800</pubDate>
+      <guid>wurenzhi.github.io/authors/admin/</guid>
+      <description>&lt;p&gt;I am a master student at Tsinghua University. My research interests include numerical simulation, information Retrieval and data management.&lt;/p&gt;
 </description>
+    </item>
+    
+    <item>
+      <title>Sanya Chaba</title>
+      <link>wurenzhi.github.io/authors/sanya-chaba/</link>
+      <pubDate>Sun, 17 Nov 2019 16:52:10 +0800</pubDate>
+      <guid>wurenzhi.github.io/authors/sanya-chaba/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Saravanan Thirumuruganathan</title>
+      <link>wurenzhi.github.io/authors/saravanan-thirumuruganathan/</link>
+      <pubDate>Sun, 17 Nov 2019 16:52:10 +0800</pubDate>
+      <guid>wurenzhi.github.io/authors/saravanan-thirumuruganathan/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Saurabh Sawlani</title>
+      <link>wurenzhi.github.io/authors/saurabh-sawlani/</link>
+      <pubDate>Sun, 17 Nov 2019 16:52:10 +0800</pubDate>
+      <guid>wurenzhi.github.io/authors/saurabh-sawlani/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Xu Chu</title>
+      <link>wurenzhi.github.io/authors/xu-chu/</link>
+      <pubDate>Sun, 17 Nov 2019 16:52:10 +0800</pubDate>
+      <guid>wurenzhi.github.io/authors/xu-chu/</guid>
+      <description></description>
     </item>
     
   </channel>

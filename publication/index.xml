@@ -1,16 +1,24 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Publications | Academic</title>
-    <link>/publication/</link>
-      <atom:link href="/publication/index.xml" rel="self" type="application/rss+xml" />
+    <title>Publications | Renzhi Wu</title>
+    <link>wurenzhi.github.io/publication/</link>
+      <atom:link href="wurenzhi.github.io/publication/index.xml" rel="self" type="application/rss+xml" />
     <description>Publications</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>2019</copyright>
     <image>
-      <url>/img/icon-192.png</url>
+      <url>wurenzhi.github.io/img/icon-192.png</url>
       <title>Publications</title>
-      <link>/publication/</link>
+      <link>wurenzhi.github.io/publication/</link>
     </image>
+    
+    <item>
+      <title>AutoER: Automated Entity Resolution using Generative Modelling</title>
+      <link>wurenzhi.github.io/publication/autoer/</link>
+      <pubDate>Sun, 17 Nov 2019 16:52:10 +0800</pubDate>
+      <guid>wurenzhi.github.io/publication/autoer/</guid>
+      <description></description>
+    </item>
     
   </channel>
 </rss>
