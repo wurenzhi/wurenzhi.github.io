@@ -2,14 +2,14 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories | Renzhi Wu</title>
-    <link>wurenzhi.github.io/categories/</link>
-      <atom:link href="wurenzhi.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://wurenzhi.github.io/categories/</link>
+      <atom:link href="https://wurenzhi.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
     <description>Categories</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>2019</copyright>
     <image>
-      <url>wurenzhi.github.io/img/icon-192.png</url>
+      <url>https://wurenzhi.github.io/img/icon-192.png</url>
       <title>Categories</title>
-      <link>wurenzhi.github.io/categories/</link>
+      <link>https://wurenzhi.github.io/categories/</link>
     </image>
     
   </channel>

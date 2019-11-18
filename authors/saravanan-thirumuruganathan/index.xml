@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Saravanan Thirumuruganathan | Renzhi Wu</title>
-    <link>wurenzhi.github.io/authors/saravanan-thirumuruganathan/</link>
-      <atom:link href="wurenzhi.github.io/authors/saravanan-thirumuruganathan/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://wurenzhi.github.io/authors/saravanan-thirumuruganathan/</link>
+      <atom:link href="https://wurenzhi.github.io/authors/saravanan-thirumuruganathan/index.xml" rel="self" type="application/rss+xml" />
     <description>Saravanan Thirumuruganathan</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>2019</copyright><lastBuildDate>Sun, 17 Nov 2019 16:52:10 +0800</lastBuildDate>
     <image>
-      <url>wurenzhi.github.io/img/icon-192.png</url>
+      <url>https://wurenzhi.github.io/img/icon-192.png</url>
       <title>Saravanan Thirumuruganathan</title>
-      <link>wurenzhi.github.io/authors/saravanan-thirumuruganathan/</link>
+      <link>https://wurenzhi.github.io/authors/saravanan-thirumuruganathan/</link>
     </image>
     
     <item>
       <title>AutoER: Automated Entity Resolution using Generative Modelling</title>
-      <link>wurenzhi.github.io/publication/autoer/</link>
+      <link>https://wurenzhi.github.io/publication/autoer/</link>
       <pubDate>Sun, 17 Nov 2019 16:52:10 +0800</pubDate>
-      <guid>wurenzhi.github.io/publication/autoer/</guid>
+      <guid>https://wurenzhi.github.io/publication/autoer/</guid>
       <description></description>
     </item>
     
