@@ -5,7 +5,7 @@
     <link>https://wurenzhi.github.io/authors/</link>
       <atom:link href="https://wurenzhi.github.io/authors/index.xml" rel="self" type="application/rss+xml" />
     <description>Authors</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>2019</copyright><lastBuildDate>Sun, 17 Nov 2019 16:52:10 +0800</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>2020</copyright><lastBuildDate>Fri, 17 Jan 2020 11:45:42 +0800</lastBuildDate>
     <image>
       <url>https://wurenzhi.github.io/img/icon-192.png</url>
       <title>Authors</title>
@@ -15,17 +15,49 @@
     <item>
       <title></title>
       <link>https://wurenzhi.github.io/authors/admin/</link>
-      <pubDate>Sun, 17 Nov 2019 16:52:10 +0800</pubDate>
+      <pubDate>Fri, 17 Jan 2020 11:45:42 +0800</pubDate>
       <guid>https://wurenzhi.github.io/authors/admin/</guid>
-      <description>&lt;p&gt;I am a master student at Tsinghua University. My research interests include numerical simulation, information Retrieval and data management.&lt;/p&gt;
+      <description>&lt;p&gt;I am a master student at Tsinghua University. My research interests include data management and machine learning.&lt;/p&gt;
 </description>
+    </item>
+    
+    <item>
+      <title>Duen Horng Chau</title>
+      <link>https://wurenzhi.github.io/authors/duen-horng-chau/</link>
+      <pubDate>Fri, 17 Jan 2020 11:45:42 +0800</pubDate>
+      <guid>https://wurenzhi.github.io/authors/duen-horng-chau/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Nilaksh Das</title>
+      <link>https://wurenzhi.github.io/authors/nilaksh-das/</link>
+      <pubDate>Fri, 17 Jan 2020 11:45:42 +0800</pubDate>
+      <guid>https://wurenzhi.github.io/authors/nilaksh-das/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Sakshi Gandhi</title>
+      <link>https://wurenzhi.github.io/authors/sakshi-gandhi/</link>
+      <pubDate>Fri, 17 Jan 2020 11:45:42 +0800</pubDate>
+      <guid>https://wurenzhi.github.io/authors/sakshi-gandhi/</guid>
+      <description></description>
     </item>
     
     <item>
       <title>Sanya Chaba</title>
       <link>https://wurenzhi.github.io/authors/sanya-chaba/</link>
-      <pubDate>Sun, 17 Nov 2019 16:52:10 +0800</pubDate>
+      <pubDate>Fri, 17 Jan 2020 11:45:42 +0800</pubDate>
       <guid>https://wurenzhi.github.io/authors/sanya-chaba/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Xu Chu</title>
+      <link>https://wurenzhi.github.io/authors/xu-chu/</link>
+      <pubDate>Fri, 17 Jan 2020 11:45:42 +0800</pubDate>
+      <guid>https://wurenzhi.github.io/authors/xu-chu/</guid>
       <description></description>
     </item>
     
@@ -46,10 +78,26 @@
     </item>
     
     <item>
-      <title>Xu Chu</title>
-      <link>https://wurenzhi.github.io/authors/xu-chu/</link>
-      <pubDate>Sun, 17 Nov 2019 16:52:10 +0800</pubDate>
-      <guid>https://wurenzhi.github.io/authors/xu-chu/</guid>
+      <title>Christian Debes</title>
+      <link>https://wurenzhi.github.io/authors/christian-debes/</link>
+      <pubDate>Thu, 17 Jan 2019 11:58:59 +0800</pubDate>
+      <guid>https://wurenzhi.github.io/authors/christian-debes/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Sergey Sukhanov</title>
+      <link>https://wurenzhi.github.io/authors/sergey-sukhanov/</link>
+      <pubDate>Thu, 17 Jan 2019 11:58:59 +0800</pubDate>
+      <guid>https://wurenzhi.github.io/authors/sergey-sukhanov/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Abdelhak M. Zoubir</title>
+      <link>https://wurenzhi.github.io/authors/abdelhak-m.-zoubir/</link>
+      <pubDate>Thu, 17 Jan 2019 11:54:06 +0800</pubDate>
+      <guid>https://wurenzhi.github.io/authors/abdelhak-m.-zoubir/</guid>
       <description></description>
     </item>
     

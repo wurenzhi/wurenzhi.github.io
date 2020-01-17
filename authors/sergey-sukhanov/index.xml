@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Sergey Sukhanov | Renzhi Wu</title>
+    <link>https://wurenzhi.github.io/authors/sergey-sukhanov/</link>
+      <atom:link href="https://wurenzhi.github.io/authors/sergey-sukhanov/index.xml" rel="self" type="application/rss+xml" />
+    <description>Sergey Sukhanov</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>2020</copyright><lastBuildDate>Thu, 17 Jan 2019 11:58:59 +0800</lastBuildDate>
+    <image>
+      <url>https://wurenzhi.github.io/img/icon-192.png</url>
+      <title>Sergey Sukhanov</title>
+      <link>https://wurenzhi.github.io/authors/sergey-sukhanov/</link>
+    </image>
+    
+    <item>
+      <title>Real-Time Pattern Matching with Dynamic Normalization</title>
+      <link>https://wurenzhi.github.io/publication/real_time_query/</link>
+      <pubDate>Thu, 17 Jan 2019 11:58:59 +0800</pubDate>
+      <guid>https://wurenzhi.github.io/publication/real_time_query/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Dynamic Pattern Matching with Multiple Queries on Large Scale Data Streams</title>
+      <link>https://wurenzhi.github.io/publication/multi_query/</link>
+      <pubDate>Thu, 17 Jan 2019 11:54:06 +0800</pubDate>
+      <guid>https://wurenzhi.github.io/publication/multi_query/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
